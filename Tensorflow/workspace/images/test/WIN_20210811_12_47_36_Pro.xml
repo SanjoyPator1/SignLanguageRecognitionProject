@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>WIN_20210811_12_47_36_Pro.jpg</filename>
+	<path>D:\projects\WorkInternship\miniProject6thsem\SLRtod\RealTimeObjectDetection\Tensorflow\workspace\images\allimages\WIN_20210811_12_47_36_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>440</xmin>
+			<ymin>290</ymin>
+			<xmax>609</xmax>
+			<ymax>545</ymax>
+		</bndbox>
+	</object>
+</annotation>
